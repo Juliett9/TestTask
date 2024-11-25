@@ -1,0 +1,11 @@
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.Changed.resources
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.Form1.resources
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Гаврюша\Desktop\Test\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\Гаврюша\Desktop\Test\TestTask\bin\Debug\TestTask.exe
+C:\Users\Гаврюша\Desktop\Test\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.exe
+C:\Users\Гаврюша\Desktop\Test\TestTask\obj\Debug\TestTask.pdb
